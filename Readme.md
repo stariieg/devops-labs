@@ -1,5 +1,3 @@
-DevOps Labs
-
 # DevOps Labs
 
 This repository contains hands-on DevOps learning labs.
@@ -17,6 +15,7 @@ chmod +x disk.sh
 ./disk.sh
 
 
+
 ---
 
 ## ج) إنشاء .gitignore
@@ -28,4 +27,3 @@ nano .gitignore
 *.log
 *.tmp
 .env
-
